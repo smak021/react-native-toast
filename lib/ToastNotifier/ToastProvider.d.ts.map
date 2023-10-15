@@ -1,0 +1,1 @@
+{"version":3,"file":"ToastProvider.d.ts","sourceRoot":"","sources":["../../src/ToastNotifier/ToastProvider.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,EAAG,YAAY,EAA2B,MAAM,OAAO,CAAA;AAErE,QAAA,MAAM,YAAY,oBAAyB,CAAA;AAE3C,KAAK,KAAK,GAAG;IACX,QAAQ,EAAE,YAAY,CAAA;CACvB,CAAA;AAID,QAAA,MAAM,aAAa,iBAAe,KAAK,gBAQtC,CAAA;AAED,eAAe,aAAa,CAAA;AAC5B,OAAO,EAAC,YAAY,EAAC,CAAA"}

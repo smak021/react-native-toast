@@ -1,0 +1,1 @@
+{"version":3,"file":"useToast.js","sourceRoot":"","sources":["../../src/ToastNotifier/useToast.ts"],"names":[],"mappings":";;AACA,iCAAmC;AACnC,mDAA8C;AAE9C,MAAM,QAAQ,GAAG,GAAG,EAAE;IACpB,MAAM,CAAC,YAAY,EAAE,eAAe,CAAC,GAAG,IAAA,kBAAU,EAAC,4BAAY,CAAC,CAAA;IAChE,OAAO,EAAC,YAAY,EAAE,eAAe,EAAC,CAAA;AACxC,CAAC,CAAA;AAED,kBAAe,QAAQ,CAAA"}

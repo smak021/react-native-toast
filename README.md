@@ -8,7 +8,7 @@ A react native custom toast message viewer .
 ## Usage
 
 ```javascript
-import Toast,{ ToastProvider } from '@smak/react-native-toast'
+import Toast,{ ToastProvider } from '@smak021/react-native-toast'
 
 function App(){
     return(
@@ -24,14 +24,14 @@ function App(){
  Set toast message in other components using the useToast() hook:
 
 ```javascript
-import { useToast } from '@smak/react-native-toast'
+import { useToast } from '@smak021/react-native-toast'
 
 function Component(){
 
 const { setToastMessage } = useToast()
 
 const handleError=()=>{
-    setToast('Your Toast Message')
+    setToastMessage('Your Toast Message')
 }
 
 return(

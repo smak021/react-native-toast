@@ -1,6 +1,6 @@
 {
-  "name": "@smak/react-native-toast",
-  "version": "1.0.0",
+  "name": "@smak021/react-native-toast",
+  "version": "1.0.1",
   "description": "A react native toast message viewer",
   "main": "lib/index.js",
   "types": "lib",
@@ -32,5 +32,13 @@
     "message"
   ],
   "author": "SMAK",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smak021/react-native-toast/issues"
+  },
+  "homepage": "https://github.com/smak021/react-native-toast#readme",
+  "directories": {
+    "lib": "lib"
+  }
+  
 }

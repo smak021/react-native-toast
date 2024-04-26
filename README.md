@@ -6,7 +6,7 @@ A react native custom toast message viewer .
 
 | With logo | Large message |
 |---|---|
-|![Toast with icon](./assets/toast-with-icon.gif) | ![Large toast message](./assets/large_toast.gif) |
+|![Toast with icon](./preview.gif) | ![Large toast message](./preview2.gif) |
 
 
 

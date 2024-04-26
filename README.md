@@ -4,6 +4,11 @@
 
 A react native custom toast message viewer .
 
+| With logo | Large message |
+|---|---|
+|![Toast with icon](./assets/toast-with-icon.gif) | ![Large toast message](./assets/large_toast.gif) |
+
+
 
 ## Usage
 
@@ -15,7 +20,7 @@ function App(){
         <ToastProvider>
         // ...Your code goes here
             <Toast duration={3000}  backgroundColor={'#33333'}/>
-        <ToastProvide>
+        </ToastProvider>
     )
 }
 ```
@@ -28,15 +33,15 @@ import { useToast } from '@smak021/react-native-toast'
 
 function Component(){
 
-const { setToastMessage } = useToast()
+    const { setToastMessage } = useToast()
 
-const handleError=()=>{
-    setToastMessage('Your Toast Message')
-}
+    const handleError=()=>{
+        setToastMessage('Your Toast Message')
+    }
 
-return(
-    //..UI
-)
+    return(
+        //..UI
+    )
 }
 
 ```

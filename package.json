@@ -1,6 +1,6 @@
 {
   "name": "@smak021/react-native-toast",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A react native toast message viewer",
   "main": "lib/index.js",
   "types": "lib",
